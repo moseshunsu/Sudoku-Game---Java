@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b6578c1e-20c1-430d-8d7e-f9ff1f4e2bc2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaDesktopSudokuDemo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sudoku/problemDomain/Coordinates.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sudoku/problemDomain/IStorage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sudoku/problemDomain/SudokuGame.java" afterDir="false" />
-    </list>
+    <list default="true" id="b6578c1e-20c1-430d-8d7e-f9ff1f4e2bc2" name="Changes" comment="Sudoku Game" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,9 +29,11 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
     "last_opened_file_path": "C:/Users/moses.hunsu/Local Settings"
   }
 }]]></component>
@@ -55,6 +46,25 @@
       <option name="presentableId" value="Default" />
       <updated>1681397456308</updated>
     </task>
+    <task id="LOCAL-00001" summary="Sudoku Game">
+      <created>1681400067073</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1681400067074</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Sudoku Game">
+      <created>1681400115135</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1681400115135</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Sudoku Game" />
+    <option name="LAST_COMMIT_MESSAGE" value="Sudoku Game" />
   </component>
 </project>
